@@ -1,0 +1,1 @@
+Diagramele sunt legate printr-o linie groasa care reprezinta clasele fiind asociate una cu cealalta
