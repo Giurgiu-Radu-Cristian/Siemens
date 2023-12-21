@@ -1,0 +1,11 @@
+Incepem prin crearea paginii html 
+Cream un layout pentru quiz ul nostru
+Incepem in fisierul nostru javascript generarea de intrebari
+O functie pentru generarea intrebarilor pe ecran
+O functie pentru verificarea intrebarilor
+O functie pentru scor
+O functie pentru reinceperea quiz-ului
+Putin style pe css
+
+
+Programul se foloseste de id-ul intrebarilor pentru a asigura faptul ca nu se repeta. Tot de questionID si text ne folosim pentru afisarea intrebarilor.

@@ -1,0 +1,1 @@
+Diagramele sunt conectate printr-o linie simpla ingrosata care arata relatia dintre ele adica una dintre clase fiind asociate cu cealalta
